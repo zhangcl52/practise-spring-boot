@@ -1,0 +1,8 @@
+#Spring 集成的默认配置可以查看spring-boot-autoconfigure包中的additional-spring-configuration-metadata.json文件
+spring:
+  mvc:
+    servlet:
+      path: /sboot
+#swagger
+swagger:
+  enable: true
